@@ -27,6 +27,9 @@ These are intermediate:
 -rw-r----- 1 ben rrg-ben 1.5K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad3_S166_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 -rw-r----- 1 ben rrg-ben 1.5K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad4_S167_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 -rw-r----- 1 ben rrg-ben 1.8K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad5_S168_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
+-rw-r----- 1 ben rrg-ben  1377 Sep 24 12:32 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad13_S174_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
+-rw-r----- 1 ben rrg-ben  1148 Sep 24 12:32 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad14_S175_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
+-rw-r----- 1 ben rrg-ben   882 Sep 24 12:33 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad15_S176_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 -rw-r----- 1 ben rrg-ben 1.1K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad17_S178_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 ```
 
