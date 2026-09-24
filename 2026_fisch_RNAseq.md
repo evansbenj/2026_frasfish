@@ -5,14 +5,14 @@
 ```
 Based on the file size, these are possible females:
 ```
--rw-r----- 1 ben rrg-ben 2.4K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad10_S171_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
--rw-r----- 1 ben rrg-ben 2.2K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad11_S172_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
--rw-r----- 1 ben rrg-ben 3.0K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad18_S179_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
--rw-r----- 1 ben rrg-ben 4.3K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad19_S180_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 -rw-r----- 1 ben rrg-ben  11K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad1_S164_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 -rw-r----- 1 ben rrg-ben 3.6K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad2_S165_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 -rw-r----- 1 ben rrg-ben 4.0K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad6_S169_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 -rw-r----- 1 ben rrg-ben 2.8K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad9_S170_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
+-rw-r----- 1 ben rrg-ben 2.4K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad10_S171_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
+-rw-r----- 1 ben rrg-ben 2.2K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad11_S172_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
+-rw-r----- 1 ben rrg-ben 3.0K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad18_S179_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
+-rw-r----- 1 ben rrg-ben 4.3K Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad19_S180_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 
 ```
 and these are possible males:
