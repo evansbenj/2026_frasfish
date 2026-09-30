@@ -57,3 +57,29 @@ These are intermediate:
 -rw-r----- 1 ben rrg-ben    0 Sep 24 12:22 dmajik_femsp_CDS1_intersect_tad14_counts.meryl_countz.txt
 -rw-r----- 1 ben rrg-ben    0 Sep 24 12:22 dmajik_femsp_CDS1_intersect_tad15_counts.meryl_countz.txt
 ```
+
+# kmerz for magicD focusing on ex1:
+Tried 4 different types of 29merz because I was unsure of the fem-specific seq. here are the females (tad10 is a maybe):
+```
+480	  0	  0	  0	tad10_dmrt1version4_intersect_meryl.out_countz.out
+960	  96	128	  96	tad13_dmrt1version4_intersect_meryl.out_countz.out
+128	  96	352	  96	tad17_dmrt1version4_intersect_meryl.out_countz.out
+128	  96	960	  96	tad18_dmrt1version4_intersect_meryl.out_countz.out
+960	  96	128	  96	tad19_dmrt1version4_intersect_meryl.out_countz.out
+```
+here are the malez (or fems with no magic expression):
+```
+  0	  0	  0	  0	tad11_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad12_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad14_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad15_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad16_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad1_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad20_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad2_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad3_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad4_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad5_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad6_dmrt1version4_intersect_meryl.out_countz.out
+  0	  0	  0	  0	tad9_dmrt1version4_intersect_meryl.out_countz.out
+```
